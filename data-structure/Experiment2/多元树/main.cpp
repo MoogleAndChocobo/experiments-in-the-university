@@ -1,3 +1,11 @@
+/**
+  * C++: MulttiwayTree
+  *
+  * @author MoogleAndChocobo
+  * @date 2019/05/15
+  */
+
+
 #include <cstdio>
 #include <iostream>
 #include <vector>

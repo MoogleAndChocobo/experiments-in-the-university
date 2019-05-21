@@ -1,3 +1,11 @@
+/**
+  * C++: stack
+  *
+  * @author MoogleAndChocobo
+  * @date 2019/05/08
+  */
+
+
 #include <iostream>
 #include <cmath>
 #include <ctime>

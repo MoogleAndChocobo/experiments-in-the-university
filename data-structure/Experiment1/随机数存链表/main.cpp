@@ -1,3 +1,11 @@
+/**
+  * C++: list
+  *
+  * @author MoogleAndChocobo
+  * @date 2019/05/08
+  */
+
+
 #include <unistd.h>
 #include <iostream>
 #include <ctime>
